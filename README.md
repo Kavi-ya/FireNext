@@ -73,13 +73,13 @@ Before we begin, please ensure you have the following:
 
 2. Install **Firebase CLI** globally by running:
 
-   ```bash
+ ```bash
    npm install -g firebase-tools
    ```
 
 3. Test the Firebase installation:
 
-   ```bash
+```bash
    firebase --version
    ```
    
@@ -118,17 +118,19 @@ Now it's solved 😎
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/Firebaseinit.PNG)
 1. Run the initialization command:
 
-   ```bash
+```bash
    firebase init
    ```
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/FirebaseInitSettings1.PNG)
-2. When prompted, select **Hosting** and configure for Firebase Hosting.
 
+2. When prompted, select **Hosting** and configure for Firebase Hosting.
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/FirebaseInitSettings2.PNG)
+
 3. Choose the **Use an existing project** you created earlier.
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/SelectExistingProject.PNG)
 
 4. Then select the existing project that you created earlier.
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/FinallySettingsdone.PNG)
 
 5. Set **public directory** to `out`.
@@ -209,7 +211,8 @@ Now it's solved 😎
 
    Once you’re ready, deploy your app to Firebase:
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/FireabaseDeploy.PNG)
-   ```bash
+
+```bash
    firebase deploy
    ```
 
