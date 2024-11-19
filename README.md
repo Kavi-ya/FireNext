@@ -68,7 +68,9 @@ Before we begin, please ensure you have the following:
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/installfirebasetools.PNG)
 
     ```bash
+    
    npm install firebase
+   
    ```
 
 2. Install **Firebase CLI** globally by running:
