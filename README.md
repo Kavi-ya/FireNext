@@ -41,7 +41,9 @@ Before we begin, please ensure you have the following:
 ## ⚡ **Step 3: Set Up Your Next.js App**
 
 1. Create a new **Next.js** app:
+   
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/SettingsInVscode.PNG)
+
    ```bash
    npx create-next-app@latest Your-App-Name
    ```
@@ -62,6 +64,7 @@ Before we begin, please ensure you have the following:
 ## 🧰 **Step 4: Install Firebase SDK**
 
 1. Navigate to your project directory and install the Firebase SDK:
+   
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/installfirebasetools.PNG)
 
     ```bash
@@ -124,8 +127,10 @@ Now it's solved 😎
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/FirebaseInitSettings2.PNG)
 3. Choose the **Use an existing project** you created earlier.
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/SelectExistingProject.PNG)
+
 4. Then select the existing project that you created earlier.
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/FinallySettingsdone.PNG)
+
 5. Set **public directory** to `out`.
 6. Configure it as a **single-page app** by selecting **Yes** when asked to rewrite all URLs to `/index.html`.
 7. Choose **No** for GitHub Actions (optional).
@@ -136,7 +141,7 @@ Now it's solved 😎
 
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/CreateRealtimeDatabase.PNG)
 1. In the Firebase Console, navigate to **Database** > **Realtime Database**.
-![])(https://github.com/Kavi-ya/FireNext/blob/main/Assets/SetupDatabase.PNG)
+![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/SetupDatabase.PNG)
 2. Select the **Singapore** as the realtime database location.
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/StartTestmode.PNG)
 3. Click **Create Database** and choose **Start in test mode** and click enable.
@@ -176,12 +181,16 @@ Now it's solved 😎
 
 ## 🌍 **Step 8: Deploy with Firebase Realtime Database Support**
 
-1. **Build the file from **Page.tsx** file, after compiling the build you can deploy it locally or deploy to the firebase ** 
+1. Build the file from **Page.tsx** file, after compiling the build you can deploy it locally or deploy to the firebase 
+   
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/npmrunbuild.PNG)
- **🔰You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file. 🔰**
+
+**🔰You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file. 🔰**
 
 2. **Test Locally**:
+   
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/npmrundev.PNG)
+
    Run your app locally using:
 
    ```bash
@@ -210,4 +219,3 @@ Now it's solved 😎
 
 You’ve successfully set up and deployed your **Next.js** app on **Firebase Hosting** with **Realtime Database** support. Your app is now live and ready to be used! 🚀
 
----
