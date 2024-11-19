@@ -1,8 +1,3 @@
-# FireNext
-Host a Next Js web application in Firebase
-
----
-
 # **FireNext: Host Your Next.js App on Firebase**
 
 This comprehensive guide will walk you through the process of setting up and hosting a **Next.js** application on **Firebase**. In just a few steps, you’ll have your app live and running!
