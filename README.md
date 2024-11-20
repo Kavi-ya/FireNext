@@ -17,23 +17,34 @@ Before we begin, please ensure you have the following:
 ## 🛠️ **Step 1: Install Node.js**
 
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/1.PNG)
+
 1. Visit the [Node.js download page](https://nodejs.org/en/download) and grab the **LTS version**.
 2. Run the installer and follow the on-screen instructions.
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/2.PNG)
+
 3. Ensure you enable the option to **automatically install the required tools**.
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/3.PNG)
+
 4. After installation is complete, click **Finish**.
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/4.PNG)   
+
 5. A terminal window will appear, installing additional tools. Once finished, press any key to continue, and close the terminal window.
 ---
 
 ## 🔥 **Step 2: Create a Firebase Project**
 
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/CreateFirebaseProject1.PNG)
+
 1. Head to the [Firebase Console](https://console.firebase.google.com) and create a new project.
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/CreateFirebaseProject2.PNG)
+
 2. Name your project and **disable Google Analytics**.
-4. Click **Create Project** to finalize.
+
+3. Click **Create Project** to finalize.
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/CreateFirebaseProject3.PNG)
 
 ---
@@ -84,9 +95,11 @@ Before we begin, please ensure you have the following:
    ```
    
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/FirebaseError.PNG)
+
 As you can see in the error message, there’s an error message related to the firebase.ps1 file on the C: \Users\username\AppData\Roaming\npm path.
 
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/Firebase.psifile.PNG)
+
 Go to that path and delete the firebase.ps1 file.
 
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/After%20Firebase%20Error.PNG)
