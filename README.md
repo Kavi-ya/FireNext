@@ -127,6 +127,7 @@ Now it's solved 😎
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/FirebaseInitSettings2.PNG)
 
 3. Choose the **Use an existing project** you created earlier.
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/SelectExistingProject.PNG)
 
 4. Then select the existing project that you created earlier.
@@ -142,17 +143,28 @@ Now it's solved 😎
 ## 📱 **Step 7: Add Firebase Realtime Database to Your Project**
 
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/CreateRealtimeDatabase.PNG)
+
 1. In the Firebase Console, navigate to **Database** > **Realtime Database**.
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/SetupDatabase.PNG)
+
 2. Select the **Singapore** as the realtime database location.
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/StartTestmode.PNG)
+
 3. Click **Create Database** and choose **Start in test mode** and click enable.
 4. Create a web app in the firebase.   
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/Add%20App.PNG)
+
 5. In the project main menu click the **Add app**
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/Register%20App.PNG)
+
 6. Fill the details according to your app & Check the **Also setup the **Firebase Hosting** for this app** and select the existing project and click Register app.
+
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/AddSDK.PNG)
+
 7. Copy your **Firebase Web App config** from this window or form **Project settings > General** under **Your apps**.
 8. In your Next.js app, create a new file `firebase.js` in the `app/` folder and add:
 
@@ -221,4 +233,4 @@ Now it's solved 😎
 ## 🎉 **Congratulations!**
 
 You’ve successfully set up and deployed your **Next.js** app on **Firebase Hosting** with **Realtime Database** support. Your app is now live and ready to be used! 🚀
-
+---
