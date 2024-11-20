@@ -1,11 +1,11 @@
+[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=black&labelColor=DD2C00&color=FFC400)](https://console.firebase.google.com) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/download/prebuilt-installer) [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org) ![npm](https://img.shields.io/badge/npm-DD2C00?style=for-the-badge&logo=npm&logoColor=white) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge
+)](https://code.visualstudio.com)
+
 # **FireNext: Host Your Next.js App on Firebase**
 
 This comprehensive guide will walk you through the process of setting up and hosting a **Next.js** application on **Firebase**. In just a few steps, you’ll have your app live and running!
 
 ---
-[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=black&labelColor=DD2C00&color=FFC400)](https://console.firebase.google.com) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/download/prebuilt-installer) [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org) ![npm](https://img.shields.io/badge/npm-DD2C00?style=for-the-badge&logo=npm&logoColor=white) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge
-)](https://code.visualstudio.com)
-
 ## 🚀 **Prerequisites**
 
 Before we begin, please ensure you have the following:
