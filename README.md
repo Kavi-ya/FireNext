@@ -213,6 +213,9 @@ Now it's solved 😎
 ## 🌍 **Step 8: Deploy with Firebase Realtime Database Support**
 
 1. Build the file from **Page.tsx** file, after compiling the build you can deploy it locally or deploy to the firebase 
+```bash
+   npm run build
+   ```
    
 ![](https://github.com/Kavi-ya/FireNext/blob/main/Assets/npmrunbuild.PNG)
 
